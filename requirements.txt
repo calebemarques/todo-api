@@ -1,0 +1,12 @@
+# This file lists the dependencies for the project. You can install them using pip:
+# pip install -r requirements.txt
+# Note: sqlite3 is included in the Python standard library, so you don't need to install it separately.
+# If you are using a virtual environment, make sure to activate it before installing the dependencies.      
+# The dependencies are:
+
+python
+fastapi
+sqlite3
+uvicorn
+sqlalchemy
+pydantic
